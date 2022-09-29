@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukasDSP
-- 👀 I’m interested in Data Analytics, Data Science
-- 🌱 I’m currently learning R, Python, Tableau
+- 👀 I’m interested in Data Analytics, Data Science, computer programing
+- 🌱 I’m currently learning R, Python, Tableau, javascript, html & CSS
 - 📫 How to reach me: lucasdspaixao@gmail.com 
 
 <!---
